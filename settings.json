@@ -1,13 +1,13 @@
 {
   "tokens": {
-    "main": "",
+    "main": "ODUyNjA2OTYxODAyODA1MzA4.YmBl7w.W-xGvw-stqUMTA7G4UGgDvPicbE",
     "alts": [
       ""
     ]
   },
   "status": {
     "main": "",
-    "alts": "invisible"
+    "alts": "online"
   },
   "nitro": {
     "max": 2,
@@ -16,7 +16,7 @@
     "delay": true
   },
   "giveaway": {
-    "enable": true,
+    "enable": false,
     "delay": 15,
     "dm": "Hey, I won a giveaway !",
     "dm_delay": 25,
@@ -43,7 +43,7 @@
     "enable": false
   },
   "webhook": {
-    "url": "",
+    "url": "https://discord.com/api/webhooks/966428149602721832/wK3b1qrhaBJqbAwYWqEOjB_sIPPS9-i5PntOFeXZkSkks-7_shk8wt8V8anucjMme80r",
     "good_only": false
   },
   "blacklist_servers": []
